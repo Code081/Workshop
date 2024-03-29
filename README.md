@@ -9,7 +9,7 @@ This workshop uses models from hugging_face to make an Image to Story Generator.
       pip install huggingface-hub
       pip install transformers
       pip install python-dotenv
-      pip install torch
+      pip install pillow
       ```
   - Python Basics (String Formatting & DataTypes)
 
