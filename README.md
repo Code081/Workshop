@@ -13,5 +13,5 @@ This workshop uses models from hugging_face to make an Image to Story Generator.
       ```
   - Python Basics (String Formatting & DataTypes)
 
-## Credits
+
 
